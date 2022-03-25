@@ -10,6 +10,13 @@ body {
     background-image: url("fondo.jpg");
 }
 
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    background-color: purple;
+}
+
 h3 {
     text-align: center;
     color: white;
